@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "shinyTree",
+    "oncran": true
+  }
+]
